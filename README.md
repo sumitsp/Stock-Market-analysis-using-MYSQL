@@ -18,6 +18,6 @@ Moving average uses the past data to smoothen the price curve. For the purpose o
 Now that you know about the concept of moving average, you shall be wondering how to use it to determine whether to buy or sell a stock.
 When the shorter-term moving average crosses above the longer-term moving average, it is a signal to **BUY**, as it indicates that the trend is shifting up. This is known as a Golden Cross.On the opposite when the shorter term moving average crosses below the longer term moving average, it is a signal to **SELL**, as it indicates the trend is shifting down. It is sometimes referred to as the Death Cross.
  
-#### Please note that it is important that the moving averages cross each other in order to generate a signal. Merely being above or below is not sufficient to generate a signal.
-When the signal is neither **buy **nor **sell**, it is classified as **hold**. If you already own the stock, keep it and if you don't then don't buy it now.
+Please note that it is important that the moving averages cross each other in order to generate a signal. Merely being above or below is not sufficient to generate a signal.
+When the signal is neither **BUY** nor **SELL**, it is classified as **HOLD**. If you already own the stock, keep it and if you don't then don't buy it now.
 
